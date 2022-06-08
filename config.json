@@ -1,0 +1,13 @@
+{
+  "display": {
+    "size": {
+      "width": 128,
+      "height": 64
+    },
+    "i2c": {
+      "sda": 0,
+      "scl": 1,
+      "addr": "0x3c"
+    }
+  }
+}
