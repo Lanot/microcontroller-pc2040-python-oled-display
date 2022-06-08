@@ -1,4 +1,0 @@
-[submodule "sh1106"]
-	path = libs/sh1106
-	url = git@github.com:robert-hh/SH1106.git
-	branch = master
