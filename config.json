@@ -5,8 +5,8 @@
       "height": 64
     },
     "i2c": {
-      "sda": 0,
-      "scl": 1,
+      "sda": 4,
+      "scl": 5,
       "addr": "0x3c"
     }
   }
